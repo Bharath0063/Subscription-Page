@@ -1,0 +1,42 @@
+.container{
+    
+    margin-right: 580px;
+    padding-left: 15px;
+    border: 3px solid black;
+    height: 420px;
+}
+.demo{
+    background-color: beige;
+    margin: 12px;
+    height: 350px;
+    
+}
+.content{
+    background-color: aliceblue;
+    height: 150px;
+}
+
+
+.banner{
+    padding: 10px;
+}
+.content{
+    margin-left: 5px;
+    padding-left: 15px;
+}
+button{
+    display: inline;
+    width: 85%;
+    margin-left: 20px;
+    height: 30px;
+    margin: 10px;
+    background-color: green;
+    color: white;
+    margin-top: 15px;
+}
+.input1{
+
+        margin-top: 15px;
+        height: 19px;
+        width: 85%;
+}
